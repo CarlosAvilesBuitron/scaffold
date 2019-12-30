@@ -4,7 +4,7 @@
 ---
 ### NodeJS with Express
 <p>Start local Node.JS/Express server with:<br/>
-npm run server<br/>
+<b>npm run server</b><br/>
 Please note that this server runs on port 8080.</p>
 
 ### NextJS
@@ -24,4 +24,9 @@ Storybook has been added to display React components.\
 You can start story book with:\
 **npm run story**\
 Please note this runs on port **8000**.
+
+### Testing
+Testing is done via Jest with Enzyme.\
+Please use the following to run tests:\
+**npm run test**
 
