@@ -4,9 +4,9 @@
 
 ---
 ### NodeJS with Express
-Start local Node.JS/Express server with:\
+<p>Start local Node.JS/Express server with:\
 npm run server\
-Please note that this server runs on port 8080.
+Please note that this server runs on port 8080.</p>
 ---
 ### NextJS
 Start local NextJS site with:\
