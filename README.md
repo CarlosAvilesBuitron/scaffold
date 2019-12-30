@@ -9,12 +9,12 @@ npm run server\
 Please note that this server runs on port 8080.</p>
 ---
 ### NextJS
-Start local NextJS site with:\
+<p>Start local NextJS site with:\
 npm start\
 Please note that this run on port 3000.
 
 If an error occurs asking you to build before NextJS can start please use:\
-npm run build
+npm run build</p>
 ---
 ### GraphQL
 GraphQL is on display mode. The graph can be viewed at --\
