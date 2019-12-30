@@ -1,0 +1,17 @@
+service: REST-REACT-GRAPHQL
+
+provider:
+  name: aws
+  runtime: nodejs10.x
+  timeout: 30
+  stage: dev
+  memorySize: 128
+  deploymentBucket:
+    name: server-nodes
+
+functions:
+  rest-react-graphql:
+    handler: index.handler
+    events:
+      - http: ANY /
+      - http: 'ANY {proxy+}'
