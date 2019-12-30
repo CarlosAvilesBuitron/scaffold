@@ -4,16 +4,16 @@
 
 ---
 ### NodeJS with Express
-Start local Node.JS/Express server with --\
+Start local Node.JS/Express server with:\
 npm run server\
 Please note that this server runs on port 8080.
 ---
 ### NextJS
-Start local NextJS site with --\
+Start local NextJS site with:\
 npm start\
 Please note that this run on port 3000.
 
-If an error occurs asking you to build before NextJS can start please use --\
+If an error occurs asking you to build before NextJS can start please use:\
 npm run build
 ---
 ### GraphQL
